@@ -1,0 +1,23 @@
+#whitelist or blacklist
+whitelist: true
+minecraft:diamond
+minecraft:coal
+minecraft:emerald
+minecraft:lapis_lazuli
+minecraft:redstone
+minecraft:redstone_block
+minecraft:raw_iron
+minecraft:raw_copper
+minecraft:raw_gold
+minecraft:raw_iron_block
+minecraft:raw_copper_block
+minecraft:raw_gold_block
+create:raw_zinc
+create:raw_zinc_block
+create:crimsite
+create:asurine
+create:veridium
+create:ochrum
+create_new_age:thorium
+createpropulsion:raw_platinum
+createpropulsion:raw_platinum_block
