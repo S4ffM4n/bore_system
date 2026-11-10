@@ -1,9 +1,10 @@
-## system for bore written in lua
+## system for bore written in lua (computer craft)
 
 has:
 - GUI for control
 - audio alerts
 - smart resource control
+- GUI overlay functional for AR garniture (from addon, optional)
 
 file structure:
 
