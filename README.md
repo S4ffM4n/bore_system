@@ -2,8 +2,9 @@
 
 has:
 - GUI for control
-- audio alerts
+- audio alerts (like "RITA" from Russian war airplanes )
 - smart resource control
+- smart fuel control 
 - GUI overlay functional for AR garniture (from addon, optional)
 
 file structure:
